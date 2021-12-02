@@ -1,0 +1,13 @@
+
+Conceptos claves:
+	* Variables. Es donde puedo almacenar datos para usarlos posteriormente. 
+	* Strings. Son hilos de caracteres. Los podemos identificar por que estan entre comillas.
+	* Funciones (argumentos, `return`). Una funcion me permite establecerla inicialmente y luego invocarla
+    para usarla sin necesidad de reescribar todo el codigo que tiene (se invoca simplemente con el nombre y
+    a continuacion parantisis()). Argumentos son los valores que puede tener la funcion que se van a tener en cuenta 
+    al momento de ejecutar la funcion (pueden ser numeros, strings, boolean, entre otros).
+    Y finalmente 'return' es lo que debe devolver la funcion luego de ejecutada. 
+	* Declaraciones `if`. Es un condicional dentro de un flujo de datos. Si determina condicion es evaluada como verdadera
+    le podemos indicar al JS que realice cierta tarea, y en caso contrario (else), otra tarea.
+	* Valores booleanos (`true`, `false`). Valores que surgen luego de evaluar una condicion. En funcion de esto, se 
+    ejecutan diferentes rutas en un flujo de datos. 
