@@ -1,0 +1,7 @@
+
+Conceptos clave:
+* `for`. Hace un loop segun las especificaciones que de demos. Por ejemplo en que valor debe iniciarse, cuando debe
+detenerse o bajo que condiciones debe seguir ejecutandose, y como va a aumentar o decrecer luego de completar un nuevo loop.
+* `&&`, `||`, `!`. Estos son operadores logicos que aplican en flujos de condiciones, por ejemplo AND (&&), OR (||) y NOT (!).
+Si usamos el operador AND, ambas condiciones deben ser TRUE para que se ejecute cierto bloque de codigo, mientras que si 
+en el mismo ejemplo usamos el operador OR, con solamente una de las condiciones se cumple, se ejecuta el bloque. 
