@@ -1,0 +1,3 @@
+Conceptos claves:
+* Arrays. Un array es un arreglo de datos, un listado de datos. Estos datos pueden ser de tipo numerico, strings, booleans, 
+funciones, null, undefined. Cada elemento de un array puede localizarse mediante su index, empezando por el [0].
