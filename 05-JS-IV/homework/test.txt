@@ -1,0 +1,9 @@
+Conceptos claves: 	
+    * Objetos. Almacenan datos en pares llave:valor. 
+	* Propiedades. Son los atributos que un objeto tiene.
+	* Métodos. Son las acciones que un objeto puede ejecutar. 
+	* Bucle `for…in`. Nos sirve para iterar un objeto(en cada uno de sus pares llave:valor).
+	* Notación de puntos vs notación de corchetes. Nos sirve para acceder al valor de cierta llave. 
+    En ambos casos primero colocamos el nombre del objeto y luego segun la opcion elegida, brackets y dentro del mismo 
+    la propiedad a la que queremos acceder. Mientras con la notacion de puntos, luego del nombre del objeto, va el 
+    punto y la propiedad. A continuacion podemos cambiar el valor del par o, si no existia previamente, crear un nuevo atributo.
