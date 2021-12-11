@@ -1,0 +1,2 @@
+Conceptos claves:
+* Funciones Callback. Son funciones que se toman como argumentos de otras funciones.
