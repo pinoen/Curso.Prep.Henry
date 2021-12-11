@@ -29,7 +29,7 @@ function sumarArray(numeros, cb) {
   let suma = numeros.reduce((acc, num)=>{
     return acc + num;
   });
-  cb(suma)
+  cb(suma);
 }
 
 function forEach(array, cb) {
