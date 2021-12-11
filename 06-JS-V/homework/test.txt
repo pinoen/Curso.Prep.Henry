@@ -1,0 +1,5 @@
+Conceptos claves:
+ `prototype`. Es un atributo que nos permite 'hacer una copia' de cierto objeto que modo que al hacer un objeto nuevo, 
+ herede las propiedad basicas del mimso.
+* _Constructors_ (de Clases). Es una palabra reservada por JS para la construction de clases. Tiene parametros a partir
+de los cuales se construyen las instancias que se tomen del mismo. 
